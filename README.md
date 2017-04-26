@@ -1,5 +1,10 @@
 # iReactivity-counter-example
 
+### To start
+- `npm i`
+- `npm start`
+
+### Example
 ```javascript
 // index.js
 
